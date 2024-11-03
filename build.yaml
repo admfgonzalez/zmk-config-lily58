@@ -19,10 +19,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield:
-      - lily58_left
-      - settings_reset
+    shield: lily58_left
   - board: nice_nano_v2
-    shield:
-      - lily58_right
-      - settings_reset
+    shield: lily58_right

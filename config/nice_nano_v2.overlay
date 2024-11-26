@@ -24,8 +24,4 @@
                           LED_COLOR_ID_RED
                           LED_COLOR_ID_BLUE>;
   };
-
-  chosen {
-        zmk,backlight = &backlight;
-    };
 };
